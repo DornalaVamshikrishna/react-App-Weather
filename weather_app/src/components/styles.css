@@ -1,0 +1,25 @@
+
+  .header {
+    background: #f51708; /* Bright purple */
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left; 
+}
+  
+  p {
+    background-color: rgb(238, 243, 243);
+    color: #000000; /* Black */
+    font-size: 18px;
+    text-align: left; /* Center text */
+  }
+  
+  .Card {
+    text-align: center; 
+    margin: 20px auto;
+    width: 90%;
+    max-width: 900px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+
+  }
+  
